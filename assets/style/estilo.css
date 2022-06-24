@@ -1,0 +1,8 @@
+.fondo{
+    background: rgb(0,35,36);
+    background: linear-gradient(90deg, rgba(0,35,36,1) 27%, rgba(0,212,255,1) 100%);
+}
+
+.fuente{
+    font-family: 'Courgette', cursive;
+}
